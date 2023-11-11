@@ -10,4 +10,7 @@ In this track, I expanded my deep learning knowledge and took my machine learnin
 - [Advanced Deep Learning with Keras](https://github.com/sondosaabed/Advanced-Deep-Learning-with-Keras)
 
 ## Statment Of Accomlishment
+![image](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track/assets/65151701/89e0bd41-bcb3-4a14-a2fa-5d6adc0358f1)
 ![image](https://github.com/sondosaabed/DataCamp-Deep-Learning-Track/assets/65151701/e7a654c4-821c-4a2d-a830-27817f1a8d3c)
+
+
